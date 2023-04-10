@@ -1,0 +1,19 @@
+Enter number of processes
+1
+1 0 0
+
+Time 0:
+  P1, Priority = -nan
+
+
+P.Name  AT      BT      CT      TAT     WT      RT
+P1      0       0       0       0       0       0
+
+
+Gantt Chart
+|  P1   
+0       0
+
+Average Response time: 0
+Average Waiting time: 0
+Average TA time: 0

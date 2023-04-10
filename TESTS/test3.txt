@@ -1,0 +1,49 @@
+Enter number of processes
+5
+1 0 5
+2 1 2
+3 2 4
+4 3 1
+5 4 7
+
+Time 0:
+  P1, Priority = 1
+
+
+Time 5:
+  P2, Priority = 3
+  P3, Priority = 1.75
+  P4, Priority = 3
+  P5, Priority = 1.14286
+
+
+Time 7:
+  P3, Priority = 5
+  P4, Priority = 2.25
+  P5, Priority = 1.42857
+
+
+Time 8:
+  P4, Priority = 2.5
+  P5, Priority = 1.57143
+
+
+Time 12:
+  P5, Priority = 2.14286
+
+
+P.Name  AT      BT      CT      TAT     WT      RT
+P1      0       5       5       5       0       0
+P2      1       2       7       6       4       4
+P4      3       1       8       5       4       4
+P3      2       4       12      10      6       6
+P5      4       7       19      15      8       8
+
+
+Gantt Chart
+|  P1   |  P2   |  P4   |  P3   |  P5   
+0       5       7       8       12      19
+
+Average Response time: 4.4
+Average Waiting time: 4.4
+Average TA time: 8.2
