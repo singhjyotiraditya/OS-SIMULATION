@@ -14,7 +14,7 @@ Write a program to implement such an algorithm. Ensure
 
 ## Solution : 
 
-[Solution here](https://github.com/devanshbatham/OS-ASSIGMENT/blob/master/solution.c)
+[Solution here](https://github.com/singhjyotiradtiya/OS-SIMULATION/blob/main/solution.cpp)
 
 ## Test Cases : 
 
