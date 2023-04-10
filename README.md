@@ -1,4 +1,4 @@
-# OS-ASSIGMENT
+# OS-SIMULATION
 
 ## Question : 
 
