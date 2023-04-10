@@ -18,4 +18,4 @@ Write a program to implement such an algorithm. Ensure
 
 ## Test Cases : 
 
-[Test cases here](https://github.com/devanshbatham/OS-ASSIGMENT/tree/master/TESTS)
+[Test cases here](https://github.com/singhjyotiradtiya/OS-SIMULATION/tree/main/TESTS)
